@@ -1,1 +1,1 @@
-Just playing arround with Linux Terminal
+Just playing arround on Ubuntu's Terminal
